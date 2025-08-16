@@ -188,3 +188,5 @@ rules.ninja
 
 # IntelliJ/Clion
 .idea/
+
+loongarch64-build/*
